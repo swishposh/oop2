@@ -1,0 +1,119 @@
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\source\repos\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\source\repos\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\2лаб\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\Admin\Desktop\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+F:\ооплаб2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+F:\ооплаб2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+D:\worktable\ооплаб2(303)\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+D:\worktable\ооплаб2(303)\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Downloads\Новая папка\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.exe
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.deps.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.runtimeconfig.dev.json
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\bin\Debug\netcoreapp3.0\ооплаб2.pdb
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.csprojAssemblyReference.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2_MarkupCompile.lref
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.g.resources
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfoInputs.cache
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.AssemblyInfo.cs
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.dll
+C:\Users\click\Documents\док\2-йцукенг\2\ООП\ооплаб2(303)2\ооплаб2\obj\Debug\netcoreapp3.0\ооплаб2.pdb
